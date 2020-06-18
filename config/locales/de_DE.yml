@@ -254,7 +254,11 @@ de_DE:
       help: "Falls Sie glauben, dass hier ein Fehler vorliegt, kontaktieren Sie Ihren Systemadministrator."
   expired_reset_token: Der Link zum Zurücksetzen des Passworts ist abgelaufen!
   features:
-    title: Eigenschaften
+    title: Nutze den DARC Treffpunkt
+    seminars: Seminare
+    presentations: Vorträge
+    discussions: Diskussionsrunden
+    training: Ausbildung
     rooms: Personalisierte Räume
     recordings: Aufzeichnungsmanagement
     designs: Eigene Designs
@@ -293,7 +297,7 @@ de_DE:
       start: Suche beginnen...
   landing:
     about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    welcome: Willkommen zu treff.darc.de
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
