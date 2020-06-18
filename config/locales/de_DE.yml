@@ -254,7 +254,7 @@ de_DE:
       help: "Falls Sie glauben, dass hier ein Fehler vorliegt, kontaktieren Sie Ihren Systemadministrator."
   expired_reset_token: Der Link zum Zurücksetzen des Passworts ist abgelaufen!
   features:
-    title: Nutze den DARC Treffpunkt
+    title: "Nutze den DARC Treffpunkt für:"
     seminars: Seminare
     presentations: Vorträge
     discussions: Diskussionsrunden
