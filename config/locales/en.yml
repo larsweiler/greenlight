@@ -192,7 +192,7 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: treff.darc.de
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -255,7 +255,11 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
+    title: "Use the DARC Treffpunkt for:"
+    seminars: Seminars
+    presentations: Presentations
+    discussions: Discussions
+    trainings: Trainings
     rooms: Personalized Rooms
     recordings: Recording Management
     designs: Custom Designs
@@ -293,9 +297,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "The DARC video conferencing system is based on the open source software BigBlueButton.<br>For the creation of a conference room (i.e. a lecture or a seminar) you need a %{href} account.<br>If you want to join a conference room, click on the link you received from the organizor."
+    welcome: Welcome to treff.darc.de
+    video: An overview of all events are provided in the Conflunce calendar
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
