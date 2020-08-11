@@ -226,7 +226,7 @@ en:
   docs: Documentation
   email: Email
   email_sent: Your %{email_type} email has been sent! (Please check your Spam folder if you haven't received it)
-  enter_your_name: Enter your name!
+  enter_your_name: Enter your name and call sign
   errors:
     bigbluebutton:
       help: Please make sure the proper steps have been taken. <a href="%{doc_link}">Learn more</a>
