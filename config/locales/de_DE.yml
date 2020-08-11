@@ -583,7 +583,7 @@ de_DE:
       auto: "Sie treten der Konferenz automatisch bei, sobald sie begonnen hat."
   settings:
     account:
-      fullname: Vollständiger Name
+      fullname: Vollständiger Name und ggf. Rufzeichen
       language: Sprache
       provider: Anbieter
       image: Bild
