@@ -315,7 +315,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "The DARC video conferencing system is based on the open source software BigBlueButton.<br>For the creation of a conference room (i.e. a lecture or a seminar) you need a %{href} account.<br>If you want to join a conference room, click on the link you received from the organizor."
+    about: "The DARC video conferencing system is based on the open source software BigBlueButton.<br>If you only want to participate in a conference, <b>no registration is required</b>. Just click on the participation link you received from the organizer.<br>Only if you want to create your own conference room (e.g. for a lecture or seminar), you need a %{href}."
     welcome: Welcome to treff.darc.de
     video: An overview of all events are provided in the Conflunce calendar
     upgrade: Show me how to upgrade to 2.0!
