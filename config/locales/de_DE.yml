@@ -314,7 +314,7 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "Der DARC Videokonferenzserver basiert auf dem Open-Source-Webkonferenzsystem BigBlueButton.<br>Um einen eigenen Konferenzraum (z.B. für einen Vortrag oder ein Seminar) zu erstellen, benötigst Du einen %{href}<br> Wenn Du einen Konferenzraum betreten möchtest, klicke einfach auf den Teilnahmelink, den Du vom Veranstalter bekommen hast."
+    about: "Der DARC Videokonferenzserver basiert auf dem Open-Source-Webkonferenzsystem BigBlueButton.<br>Wenn Du nur an einer Konferenz teilnehmen möchtest, <b>ist keine Registrierung nötig</b>. Klicke einfach auf den Teilnahmelink, den Du vom Veranstalter bekommen hast.<br>Nur wenn Du einen eigenen Konferenzraum (z.B. für einen Vortrag oder ein Seminar) erstellen willst, benötigst Du einen %{href}"
     moderator: "Moderator-Account"
     welcome: Willkommen zu treff.darc.de
     video: "Eine Übersicht über alle Veranstaltungen findest du im Confluence-Kalender"
