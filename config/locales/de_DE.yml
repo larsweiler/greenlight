@@ -630,7 +630,7 @@ de_DE:
     search: Suche
   signup:
     password_confirm: Passwortbestätigung
-    subtitle: Konto erstellen <b– >nur, wenn Du einen Raum erstellen möchtest</b>. Als Teilnehmer brauchst Du kein Konto.
+    subtitle: Konto erstellen – <b>nur, wenn Du einen Raum erstellen möchtest</b>. Als Teilnehmer brauchst Du kein Konto.
     title: Registrieren
     with: "Registrieren mit %{provider}"
   terms:
