@@ -69,6 +69,10 @@ de_DE:
         regular: Normal
         lighten: Heller
         darken: Dunkler
+      email_mapping:
+        info: "Ordnen Sie den Nutzer anhand seiner E-Mail einer Rolle zu. Muss im Format email1=Rolle1,email2=Rolle2 erfolgen"
+        title: Rollenzuordnung per E-Mail
+        update:
       log_level:
         title: Log-Level
         information: Log-Level für die gesamte Anwendung ändern
@@ -111,6 +115,7 @@ de_DE:
       tabs:
         appearance: Darstellung
         administration: Administration
+        registration: Registrierung
         settings: Einstellungen
       title: Grundeinstellungen
     flash:
@@ -133,8 +138,10 @@ de_DE:
       settings: Grundeinstellungen erfolgreich geändert
       unauthorized: "Sie haben nicht die notwendigen Rechte, um diese Änderung bei diesem Teilnehmer vorzunehmen."
     recordings:
+      latest: Aktuelle Aufzeichnungen
       title: Serveraufzeichnungen
       no_recordings: Keine Aufzeichnungen vorhanden.
+      search_info: Geben Sie die vollständige E-Mail eines Nutzers oder die Raum-ID ein
     roles:
       appear_in_share_list: Nutzer mit dieser Rolle im Dropdown-Menü zum Teilen von Räumen einschließen
       can_create_rooms: Kann Räume erstellen
@@ -492,6 +499,7 @@ de_DE:
     office365: Office 365
     twitter: Twitter
     ldap: LDAP
+    openid_connect: OpenID Connect
   recaptcha:
     errors:
       recaptcha_unreachable: "Ups, es war nicht möglich die reCAPTCHA Antwort zu überprüfen. Bitte versuchen Sie es nochmals."
@@ -537,6 +545,7 @@ de_DE:
   remove: Entfernen
   rename: Umbenennen
   reset_password:
+    captcha: "reCAPTCHA Verifikation fehlgeschlagen, bitte nochmals versuchen."
     invalid_token: "Der Token zum Zurücksetzen des Passworts ist ungültig. Bitte versuchen Sie erneut, Ihr Passwort zurückzusetzen."
     subtitle: Passwort zurücksetzen
     password: Neues Passwort
@@ -598,6 +607,7 @@ de_DE:
     shared_access_success: Raum erfolgreich geteilt
     shared_access_error: Beim Teilen des Raums ist ein Fehler aufgetreten
     start: Starten
+    search: Suche nach Raum…
     unavailable: "Der Raum ist aktuell nicht verfügbar, weil die E-Mail des Rauminitiators noch nicht verifiziert wurde."
     update_settings_error: Bei der Aktualisierung der Raumeinstellungen ist ein Fehler aufgetreten.
     update_settings_success: Raumeinstellungen erfolgreich aktualisiert
